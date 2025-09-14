@@ -4,14 +4,14 @@ Cloud-Powered Educational Data Mining: Analyzing Factors Affecting Student Perfo
 Name : Sharmila Dinesh
 
 
-# 🎓 Cloud-Powered Educational Data Mining: GPA Prediction
+#  Cloud-Powered Educational Data Mining: GPA Prediction
 
 This project analyzes student performance data and builds a **machine learning model** to predict **GPA (Grade Point Average)** based on study-related factors. It was developed as part of the *Foundation of Data Science* subject and implemented using **Google Colab**.
 
 
 ---
 
-## 🚀 Features
+##  Features
 - Load and explore **student dataset**
 - Perform **exploratory data analysis (EDA)**  
   - Correlation heatmap  
@@ -24,21 +24,21 @@ This project analyzes student performance data and builds a **machine learning m
 
 ---
 
-## 📊 Results
-- **R² Score:** ~0.95 (very high accuracy ✅)  
-- **Mean Squared Error (MSE):** ~0.03 (very low error ✅)  
+## Results
+- **R² Score:** ~0.95 (very high accuracy )  
+- **Mean Squared Error (MSE):** ~0.03 (very low error )  
 - Example student prediction → Predicted GPA ≈ **3.27**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - **Google Colab** (cloud-based environment)  
 - **GitHub** (version control & hosting)
 
 ---
 
-## 📈 Sample Visualizations
+##  Sample Visualizations
 - **Correlation Heatmap**
 - **Study Time vs GPA**
 - **Absences vs GPA**
