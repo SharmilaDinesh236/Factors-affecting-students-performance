@@ -54,4 +54,18 @@ Correlation Heatmap =
 
 Distribution of GPA =
 
+<img width="540" height="393" alt="Image" src="https://github.com/user-attachments/assets/2dbccea3-3fa9-433c-b1eb-efc7ac8f2112" />
+
+Study Time vs GPA =
+
+<img width="536" height="393" alt="Image" src="https://github.com/user-attachments/assets/39283056-2002-40e8-bfd3-d1db8dd0d2da" />
+
+Absence vs GPA =
+
+<img width="538" height="393" alt="Image" src="https://github.com/user-attachments/assets/25b0f345-a05a-4f8c-88e0-b477fa7c5140" />
+
+Actual vs Predicted GPA =
+
+<img width="536" height="393" alt="Image" src="https://github.com/user-attachments/assets/86f78304-212e-442a-aa65-8c87eed1bbd2" />
+
 
