@@ -48,4 +48,10 @@ This project analyzes student performance data and builds a **machine learning m
 
 OUTPUT : 
 
+Correlation Heatmap =
+
+<img width="897" height="795" alt="Image" src="https://github.com/user-attachments/assets/f760dc97-5451-40bf-a08a-e548670a2641" />
+
+Distribution of GPA =
+
 
